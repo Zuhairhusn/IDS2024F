@@ -1,2 +1,2 @@
-# IDS2024S
+# IDS2024F
 Data Science Course
