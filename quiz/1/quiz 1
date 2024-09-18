@@ -1,0 +1,59 @@
+2. MD means markdown documentation
+
+3. no
+
+4. yes
+
+5. the purpose of the git folder is for github to detect the repository if placed on our desktop.
+
+6. cd just changes to the file directory, for example if i wanted to go to desktop through cmd, i'd just type "cd desktop" in cmd in order to change my file directory.
+
+7. ls -a shows all of the file directories, including hidden ones.
+
+8. pwd prints the current working directory
+
+9. working directory, staging area, .git directory
+
+10. VCS is a system that tracks the changes to files, or a set of files over time so that you can recall specific versions later.
+
+11. It's fast, simple, has support for non linear developent, thousands of branches in one repo, fully distibuted, able to handle huge projects
+
+12. Local VCS, Centralized VCS, Distributed VCS
+
+13. git is a third party extension which allows for easier access in your github repo, its the best for making git commits to your repository. very friendly user interface which doesnt require a cmd to make changes to your repository.
+
+14. git status shows the current state of your directory in the branch
+
+15. git push --all pushes all of the queued commits you have made into your repository all at once
+
+16. git pull allows you to fetch and download the content of a public repository, including your own.
+
+17. Markdown is a way to tyle text on the internet. Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+
+18. **you make the text bolfaced by doing this**
+
+19. _you make the text italic by doing this_
+
+20. git init
+
+21. . and .. mean basically how many folders there are without having such a huge directory being named out and hitting the character limit.
+
+22. i just removed the entries from my file parameters in my directory
+
+23. data science, cloud computational science, cybersec, comm tech science.
+
+24. Machine Learning, Quantum Computing, Cloud Computing, Deep Learning
+
+25. Experiment, Theory, Computation+Data Science
+
+26. AI, Climate Modeling, Bioinformatics
+
+27. Statistics, Comp Sci., Domain Knowledge
+
+28. i would best define a data scientist as just another scientist in the field of science wanting to discover more 
+
+29. relative path describes the location of a file in realtion to the cirrent working directory, whereas an absolte path provides the full lenght apth from the root directory to the file. for github? relative path is the mre approporiate option. because it allows portability across diferent systems and work environments.
+
+30. git help -a
+
+31. "cd ~" changes the file dir to the cirrent users home dir.
