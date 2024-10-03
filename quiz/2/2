@@ -1,0 +1,141 @@
+1. What is the fastest component of a computer memory?
+Registers
+
+2. Why is modern computer memory comprised of a multilevel (hierarchical) structure?
+To balance speed, size, and cost. Faster memory is more expensive and has less capacity, so a hierarchy optimizes performance by using smaller, faster memory (e.g., cache) closer to the CPU and larger, slower memory (e.g., RAM, HDD) further away.
+
+3. What is the slowest kind of computer storage device?
+Magnetic Tape
+
+4. Name the hierarchy of the memory of modern computers, from the smallest to the largest memory size.
+Registers
+L1 Cache
+L2 Cache
+L3 Cache
+RAM
+SSD
+HDD
+Magnetic Tape
+
+5. What is the smallest unit of information in computers?
+Bit
+
+6. Why have humans chosen the binary numbers (0 and 1) to represent data in computers?
+Binary numbers are used because they are easy to represent with physical systems (such as voltage levels or magnetic states) that have two distinct states (on/off, true/false), making them reliable and efficient for digital computing.
+
+7. What is the typical speed of contemporary computer memory registers?
+Typically around 1 nanosecond or less for access time.
+
+8. What decade was the first digital computer built?
+1940s
+
+9. What decade was the first general-purpose digital computer built?
+1940s
+
+10. What is a fixed program computer?
+A computer designed to perform a specific set of instructions or operations that cannot be changed, making it unable to execute general-purpose programs.
+
+11. Name an example of modern-day fixed program computer.
+Calculator or digital watch
+
+12. What is the difference between declarative and imperative knowledge?
+
+Declarative Knowledge: Describes facts or information about something (what is true or false).
+Imperative Knowledge: Describes instructions on how to perform an action or task (how to do something).
+13. Classify the following statements as imperative or declarative knowledge.
+a. The letter B is the second letter in the English alphabet.
+Declarative
+
+b. Overcast sky conditions are more likely to cause rain.
+Declarative
+
+c. Submit your answer to this question in subfolder 2 of quiz folder of your GitHub project.
+Imperative
+
+d. Once done with this quiz, do not forget to commit your responses to your repository.
+Imperative
+
+e. You must answer all questions in this quiz to get a full grade.
+Imperative
+
+14. What class of human knowledge do algorithms belong to?
+Imperative knowledge
+
+15. What is the name of the first digital computer?
+ENIAC (Electronic Numerical Integrator and Computer)
+
+16. Name a computer programming language whose evolution and popularity is tightly coupled with the field of Bioinformatics.
+Perl
+
+17. Name a computer programming language whose evolution and popularity is tightly coupled with the field of Numerical Computing, Atmospheric Science, Plasma Sciences, and Aerospace Engineering, among others.
+Fortran
+
+18. Name the five major components of a modern digital computer.
+Central Processing Unit (CPU)
+Memory (RAM)
+Input Devices
+Output Devices
+Storage Devices
+19. Name an example of a fixed-program computer.
+Digital Clock
+
+20. Order the following languages chronologically according to their birth date.
+Java, COBOL, C++, Python, Fortran, B
+
+Fortran
+COBOL
+B
+C++
+Python
+Java
+
+21. (A) What is the closest human-readable programming language to machine code (i.e., binary numbers)?
+Assembly language
+
+21. (B) Does it need interpretation in order to become machine-comprehensible?
+Yes, it needs to be assembled into machine code.
+
+22. (A) Name the oldest high-level programming language that is still in active daily use.
+FORTRAN
+
+22. (B) Approximately how many decades is it old?
+7 decades (developed in the 1950s)
+
+23. (A) Name a second-generation programming language.
+Assembly language
+
+23. (B) Which language-generation are Fortran, C, C++, MATLAB, Python, R?
+Third-generation programming languages
+
+24. In what decades were C, C++, MATLAB, and Python created, respectively?
+C: 1970s
+C++: 1980s
+MATLAB: 1980s
+Python: 1990s
+
+25. Name an ancestor programming language of C.
+B
+
+26. Name a programming language ancestor of C++.
+C
+
+27. Name a programming language ancestor of MATLAB and a programming language ancestor of Python.
+MATLAB: Fortran
+Python: ABC
+
+28. How do you define logarithm? Explain with a simple example.
+A logarithm is the inverse operation to exponentiation, meaning it determines what power a number (the base) must be raised to, in order to get another number.
+3
+
+29. Consider the following summation: S=3+6+9+…+93+96+99 . What is the value of S?
+The series is an arithmetic sequence with a common difference of 3. The number of terms is 1683
+
+30. Extra Credit: Which memory device is longer lasting: magnetic tapes or HDD (Hard-Disk Drives)? How many years approximately does each one last?
+Magnetic tapes: Approximately 30 years
+HDD: Approximately 3-5 years
+
+31. Extra Credit: Can you name a fixed-program computer that existed for centuries before the invention of the first digital computer?
+Abacus
+
+32. Extra Credit: Consider the following multiplication: S=101×102×103×…×10100. What is the value of S?
+200!/100!
