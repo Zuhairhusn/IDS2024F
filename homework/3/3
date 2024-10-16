@@ -22,16 +22,29 @@
 
 12. While A implies B in the logical sense, it doesn't necessarily mean the alarm caused the burglar, as many other factors could trigger the alarm (ex: malfunction).
 
-13. Bit is the tinest unit of information. This is the smallest amount because it represents the most fundamental binary decision or state (on/off, yes/no).
+13. 
+A: The burglar alarm is sounding.
+B: The jewelry store window is broken.
+C: A masked individual is crawling out of the broken window.
+D: The individual is carrying a bag full of expensive jewelry.
+E: The masked individual is a burglar.
+
+If A (alarm sounds) and B (window is broken), then something suspicious is happening.
+(𝐴∧𝐵)⇒suspicious activity
+
+If C (a masked individual is crawling out) and D (the bag is full of jewelry), then it strongly suggests criminal intent.
+(𝐶∧𝐷)⇒criminal activity
+If both suspicious and criminal activity are observed, then the masked individual is likely dishonest (E).
+
+(suspicious activity∧criminal activity)⇒𝐸
+In short, the policeman uses deductive reasoning from observable facts (A, B, C, D) to conclude that the masked individual is likely a burglar (E).
 
 14. 
 a. Bit: The tiniest unit of information, representing 0 or 1 in computers. 
-
 b. This is the smallest amount because it represents the most fundamental binary decision or state (on/off, yes/no).
 
 In a void, you would need an external reference point or another object to define coordinates or detect movement.
 Representing Information:
-
 1 box (bit) can represent 2 things (0 or 1).
-2 boxes can represent 4 things (00, 01, 10, 11).
-3 boxes can represent 8 things (000, 001, 010, 011, 100, 101, 110, 111).
+2 boxes can represent 4 things: 00, 01, 10, 11.
+3 boxes can represent 8 things: 000, 001, 010, 011, 100, 101, 110, 111.
