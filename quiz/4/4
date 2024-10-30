@@ -1,0 +1,36 @@
+1. 
+With the given i am provided with finally A↑(A↑A), which just reduces to A with NAND.
+
+2. 
+The left side can be expanded. 
+A↑A = A
+B↑B = B
+So left side becomes \\A↓B=A∧B
+The right side utilizing the identities for NOR, it proves both sides are equivalent.
+
+3.
+I feel like its easier to explain. When you combine the 𝑓1, 𝑓3, and 𝑓4, it reproduces the truth values for A⇒B, proving the equivalence.
+
+4. 
+A⇒B≡A+B
+B⇒A≡B+A
+A+B≡B+A
+That proves (A⇒B)≡(B⇒A). 
+
+5.
+This uses the application of the De Morgan Law, so we are able to expand C(A+B) 
+Which becomes C+A*B.
+
+6. (this took way too much time to make into a table without the use of an external tool because i assumed nicholas would think i was cheating if he saw an external application opened.)
+T	T	T	F	F	F	F
+T	F	F	T	F	T	F
+F	T	F	T	T	F	F
+F	F	F	T	T	T	T
+AB and A*B have different truth values in some rows. it proves that it's not equivalent.
+
+7. 
+T	T	T	F	F	F	F
+T	F	T	F	F	T	T
+F	T	T	F	T	F	T
+F	F	F	T	T	T	T
+A+B___ and _A+_B have different truth values in some of the rows. It's not equivalent.
